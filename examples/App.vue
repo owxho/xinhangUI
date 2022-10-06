@@ -1,7 +1,7 @@
 <template>
   <div>
     <XinButton>
-      wo
+      按钮
     </XinButton>
   </div>
 </template>
